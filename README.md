@@ -6,7 +6,7 @@
     An Awesome Front-end of the E-commerce website Home page.
     <br/>
     <br/>
-    <a href="https://github.com/rahul-rathore786/Ecommerce-Frontend-Home-Page">View Demo</a>
+    <a href="https://rahul-rathore786.github.io/Ecommerce-Frontend-Home-Page/">View Demo</a>
     .
   </p>
 </p>
